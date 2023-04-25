@@ -40,7 +40,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container">
-      <a href="index.html" class="hero-logo" data-aos="zoom-in"><img src="{{ asset('landingpage/img/himapsi-ikon.png')}}" alt=""></a>
+      <a href="" class="hero-logo" data-aos="zoom-in"><img src="{{ asset('landingpage/img/himapsi-ikon.png')}}" alt=""></a>
       <h1 data-aos="zoom-in">HIMAPSI</h1>
       <h2 data-aos="fade-up">Fakultas Teknik | Unversitas Sulawesi Barat</h2>
       <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started scrollto">Jelajahi</a>
@@ -62,7 +62,7 @@
           <li><a class="nav-link scrollto" href="#services">Sejarah</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Visi & Misi</a></li>
           <li><a class="nav-link scrollto" href="#team">Struktur Organisasi</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Hubungi kami</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Kotak saran</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -77,32 +77,41 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>About Us</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur</p>
+          <h2>Profil</h2>
+          <p>Himapsi | Fakultas Teknik | Universitas Sulawesi Barat</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
             <div class="image">
-              <img src="{{ asset('landingpage/img/about.jpg')}}" class="img-fluid" alt="">
+              <img src="{{ asset('landingpage/img/himapsi-profil.jpg')}}" class="img-fluid" alt="">
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-left">
-            <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
-              <h3>Voluptatem dignissimos provident quasi corporis</h3>
-              <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
-              </p>
-              <ul>
-                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-              </ul>
+            <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3">
+              <div class="text-center mb-3">
+                <h3>HIMAPSI</h3>
+                <p class="fst-italic">
+                  Himpunan Mahasiswa Program Studi Informatika
+                </p>
+              </div>
+              
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum
+                Mahasiswa Program Studi Informatika Universitas Sulawesi Barat merupakan bagian dari masyarakat
+                ilmiah yang membentuk sumber daya manusia (SDM) yang menguasai ilmu pengetahuan dan teknologi
+                khususnya informasi dan komunikasi. Dan berkewajiban untuk turut serta berperan aktif dalam mewujudkan
+                Tri darma perguruan tinggi.
+              </p>
+              <p>
+                Mahasiswa Program Studi Informatika memiliki intelektual dan integrtas yang tinggi dalam menguasai
+                ilmu pengetahuan dan teknologi khususnya informasi dan komunikasi sehingga dapat difungsikan secara 
+                maksimal untuk diri sendiri dan orang lain. Mengaplikasikan dengan penuh rasa tanggung jawab sebagai makhluk Tuhan 
+                dalam mewujudkan masyarakat yang adil dan makmur berdasarkan pancasila dan UUD 1945.
+              </p>
+              <p>
+                Himpunan Mahasiswa Program Studi Informatika bertujuan untuk membentuk mahasiswa yang bertaqwa kepada Tuhan Yang
+                Maha Esa, berwawasan luas dan bertanggung jawab sebagai insan akademik yang berkiprah dalam bidang
+                teknologi informasi dan dapat berorientasi langsung dalam masyarakat.
               </p>
             </div>
           </div>

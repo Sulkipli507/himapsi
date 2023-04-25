@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #7cc576;
+  color: #3299c6;
 }
 
 .navbar .dropdown ul {
@@ -380,13 +380,13 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px;
   margin: 10px;
   color: #fff;
-  background: #7cc576;
+  background: #3299c6;
 }
 
 #hero .btn-get-started:hover {
   transition: 0.5s;
   background: #fff;
-  color: #7cc576;
+  color: #000000;
 }
 
 @media (min-width: 1024px) {
