@@ -77,24 +77,13 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Profil</h2>
-          <p>Himapsi | Fakultas Teknik | Universitas Sulawesi Barat</p>
+          <h2>Himapsi</h2>
+          <p>Himpunan Mahasiswa Program Studi Informatika</p>
         </div>
 
-        <div class="row">
-          <div class="col-lg-6" data-aos="fade-right">
-            <div class="image">
-              <img src="{{ asset('landingpage/img/himapsi-profil.jpg')}}" class="img-fluid" alt="">
-            </div>
-          </div>
-          <div class="col-lg-6" data-aos="fade-left">
+        <div class="container">
+          <div class="text-center" data-aos="fade-left">
             <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3">
-              <div class="text-center mb-3">
-                <h3>HIMAPSI</h3>
-                <p class="fst-italic">
-                  Himpunan Mahasiswa Program Studi Informatika
-                </p>
-              </div>
               
               <p>
                 Mahasiswa Program Studi Informatika Universitas Sulawesi Barat merupakan bagian dari masyarakat
@@ -120,69 +109,29 @@
       </div>
     </section><!-- End About Us Section -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6 order-2 order-lg-1">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up">
-              <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-            </div>
-          </div>
-          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("{{ asset('landingpage/img/services.jpg')}}");' data-aos="fade-left" data-aos-delay="100"></div>
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
-
     <!-- ======= Featured Section ======= -->
     <section id="featured" class="featured">
       <div class="container">
+        <div class="section-title" data-aos="fade-up">
+          <h2>Makna logo</h2>
+        </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
             <div class="tab-content">
               <div class="tab-pane active show" id="tab-1">
                 <figure>
-                  <img src="{{ asset('landingpage/img/featured-1.png')}}" alt="" class="img-fluid">
+                  <img src="{{ asset('landingpage/img/himapsi-ikon1.png')}}" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-2">
                 <figure>
-                  <img src="{{ asset('landingpage/img/featured-2.png')}}" alt="" class="img-fluid">
+                  <img src="{{ asset('landingpage/img/himapsi-ikon2.png')}}" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-3">
                 <figure>
-                  <img src="{{ asset('landingpage/img/featured-3.png')}}" alt="" class="img-fluid">
-                </figure>
-              </div>
-              <div class="tab-pane" id="tab-4">
-                <figure>
-                  <img src="{{ asset('landingpage/img/featured-4.png')}}" alt="" class="img-fluid">
+                  <img src="{{ asset('landingpage/img/himapsi-ikon3.png')}}" width="332px" height="341px" alt="" class="img-fluid">
                 </figure>
               </div>
             </div>
@@ -191,26 +140,39 @@
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
                 <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
-                  <h4>Modi sit est</h4>
-                  <p>Quis excepturi porro totam sint earum quo nulla perspiciatis eius.</p>
+                  <h4>Lingkaran warna</h4>
+                  <p>Simbol ini menggambarkan Kekompakan kebersamaan keseragaman.
+                     Perbedaan warna menggambarkan perbedaan karakter dan pemikiran yang tidak menjadi 
+                     penghalang untuk tetap melangkah bersama, memiliki arah tujuan 
+                     yang sama.</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
-                  <h4>Unde praesentium sed</h4>
-                  <p>Voluptas vel esse repudiandae quo excepturi.</p>
+                  <h4>Gear</h4>
+                  <p>Gear melambangkan pergerakan tiada henti, semangatteguh, dan berjuang tanpa Lelah untuk mencapai tujuan.</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
                   <h4>Pariatur explicabo vel</h4>
-                  <p>Velit veniam ipsa sit nihil blanditiis mollitia natus.</p>
-                </a>
-              </li>
-              <li class="nav-item mt-2">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">
-                  <h4>Nostrum qui quasi</h4>
-                  <p>Ratione hic sapiente nostrum doloremque illum nulla praesentium id</p>
+                  <p>
+                    Akar, Bintang dan IT melambangkan pondasi utama kita adalah Ketuhanan Yang Maha Esa namun gerakannya di bidang Teknologi
+                  </p>
+                  <p>
+                    Warna Merah pada melambangkan kesenenergi, kekuatan, hasrat, erotisme dalam menelaah ilmu pengetahuan,
+                     keberanian, simbol dari api, pencapaian tujuan, darah, resiko,
+                      ketenaran, cinta, perjuangan, perhatian, perang, bahaya, kecepatan,
+                       panas, kekerasan.
+                  </p>
+                  <p>
+                    Orange Menunjukkan kehangatan, antusiasme, persahabatan, pencapaian bisnis, karier, kesuksesan, kesehatan pikiran,
+                     keadilan, daya tahan, kegembiraan, gerak cepat, sesuatu yang tumbuh, 
+                     ketertarikan, independensi.
+                  </p>
+                  <p>
+                    Angka 1 dan 0 yang menunjukkan identitas sebagai mahasiswa TI (Teknik Informatika).
+                  </p>
                 </a>
               </li>
             </ul>
