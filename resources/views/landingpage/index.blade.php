@@ -155,7 +155,7 @@
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
-                  <h4>Pariatur explicabo vel</h4>
+                  <h4>Akar, Bintang dan Bilangan biner</h4>
                   <p>
                     Akar, Bintang dan IT melambangkan pondasi utama kita adalah Ketuhanan Yang Maha Esa namun gerakannya di bidang Teknologi
                   </p>
